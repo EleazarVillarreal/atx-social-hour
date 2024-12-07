@@ -1,0 +1,323 @@
+[
+  {
+    "id": 1,
+    "location_name": "The Peached Tortilla",
+    "neighborhood": "North Austin",
+    "location": {
+      "latitude": 30.2691,
+      "longitude": -97.749
+    },
+    "website": "http://thepeachedtortilla.com",
+    "logo_url": "https://plus.unsplash.com/premium_photo-1661953124283-76d0a8436b87?q=80&w=3288&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "happy_hours": {
+      "Monday": {
+        "all_day": false,
+        "start_time": "16:00",
+        "end_time": "18:00",
+        "drink_specials": ["$6 house margaritas"],
+        "food_specials": ["$4 tacos"]
+      },
+      "Wednesday": {
+        "all_day": false,
+        "start_time": "17:00",
+        "end_time": "19:00",
+        "drink_specials": ["$5 sangrias"],
+        "food_specials": ["$4 street corn"]
+      },
+      "Friday": {
+        "all_day": false,
+        "start_time": "16:00",
+        "end_time": "19:00",
+        "drink_specials": ["$6 mojitos"],
+        "food_specials": ["$5 sliders"]
+      },
+      "Sunday": {
+        "all_day": true,
+        "drink_specials": ["$4 mimosas"],
+        "food_specials": ["$6 brunch tacos"]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "location_name": "La Condesa",
+    "neighborhood": "Downtown Austin",
+    "location": {
+      "latitude": 30.2653,
+      "longitude": -97.7456
+    },
+    "website": "http://lacondesa.com",
+    "logo_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "happy_hours": {
+      "Tuesday": {
+        "all_day": true,
+        "drink_specials": ["$7 margaritas"],
+        "food_specials": ["$5 guacamole"]
+      },
+      "Thursday": {
+        "all_day": false,
+        "start_time": "15:00",
+        "end_time": "18:00",
+        "drink_specials": ["$5 house wines"],
+        "food_specials": ["$6 ceviche"]
+      },
+      "Friday": {
+        "all_day": false,
+        "start_time": "16:00",
+        "end_time": "19:00",
+        "drink_specials": ["$6 tequila shots"],
+        "food_specials": ["$8 empanadas"]
+      }
+    }
+  },
+  {
+    "id": 3,
+    "location_name": "Italic",
+    "neighborhood": "Downtown Austin",
+    "location": {
+      "latitude": 30.2697,
+      "longitude": -97.7403
+    },
+    "website": "http://italicaustin.com",
+    "logo_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "happy_hours": {
+      "Monday": {
+        "all_day": false,
+        "start_time": "15:00",
+        "end_time": "18:00",
+        "drink_specials": ["$5 spritzers"],
+        "food_specials": ["$7 margherita pizza"]
+      },
+      "Thursday": {
+        "all_day": false,
+        "start_time": "16:00",
+        "end_time": "19:00",
+        "drink_specials": ["$6 Italian wines"],
+        "food_specials": ["$8 meatballs"]
+      },
+      "Saturday": {
+        "all_day": true,
+        "drink_specials": ["$4 aperol spritz"],
+        "food_specials": ["$10 pasta dishes"]
+      }
+    }
+  },
+  {
+    "id": 4,
+    "location_name": "Moonshine Patio Bar & Grill",
+    "neighborhood": "East Austin",
+    "location": {
+      "latitude": 30.264,
+      "longitude": -97.7386
+    },
+    "website": "http://moonshinegrill.com",
+    "logo_url": "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?q=80&w=3024&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "happy_hours": {
+      "Wednesday": {
+        "all_day": true,
+        "drink_specials": ["$5 cocktails"],
+        "food_specials": ["$7 nachos"]
+      },
+      "Thursday": {
+        "all_day": false,
+        "start_time": "15:00",
+        "end_time": "17:00",
+        "drink_specials": ["$4 beers"],
+        "food_specials": ["$6 wings"]
+      },
+      "Friday": {
+        "all_day": false,
+        "start_time": "16:00",
+        "end_time": "19:00",
+        "drink_specials": ["$7 martinis"],
+        "food_specials": ["$9 shrimp tacos"]
+      }
+    }
+  },
+  {
+    "id": 5,
+    "location_name": "Cooper's BBQ",
+    "neighborhood": "West Austin",
+    "location": {
+      "latitude": 30.2672,
+      "longitude": -97.7431
+    },
+    "website": "http://coopersbbq.com",
+    "logo_url": "https://images.unsplash.com/photo-1497644083578-611b798c60f3?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "happy_hours": {
+      "Tuesday": {
+        "all_day": true,
+        "drink_specials": ["$4 draft beers"],
+        "food_specials": ["$8 pulled pork sandwiches"]
+      },
+      "Thursday": {
+        "all_day": false,
+        "start_time": "15:00",
+        "end_time": "18:00",
+        "drink_specials": ["$6 bourbon"],
+        "food_specials": ["$5 sausages"]
+      },
+      "Friday": {
+        "all_day": false,
+        "start_time": "16:00",
+        "end_time": "19:00",
+        "drink_specials": ["$7 whiskey sours"],
+        "food_specials": ["$6 brisket tacos"]
+      }
+    }
+  },
+  {
+    "id": 6,
+    "location_name": "Péché",
+    "neighborhood": "Downtown Austin",
+    "location": {
+      "latitude": 30.2673,
+      "longitude": -97.7466
+    },
+    "website": "http://pecheaustin.com",
+    "logo_url": "https://images.unsplash.com/photo-1474898856510-884a2c0be546?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "happy_hours": {
+      "Monday": {
+        "all_day": true,
+        "drink_specials": ["$5 cocktails"],
+        "food_specials": ["$7 charcuterie board"]
+      },
+      "Wednesday": {
+        "all_day": false,
+        "start_time": "16:00",
+        "end_time": "18:00",
+        "drink_specials": ["$6 martinis"],
+        "food_specials": ["$5 fries"]
+      },
+      "Friday": {
+        "all_day": false,
+        "start_time": "16:00",
+        "end_time": "19:00",
+        "drink_specials": ["$7 old fashioneds"],
+        "food_specials": ["$8 sliders"]
+      }
+    }
+  },
+  {
+    "id": 7,
+    "location_name": "The Backspace",
+    "neighborhood": "South Austin",
+    "location": {
+      "latitude": 30.2671,
+      "longitude": -97.7406
+    },
+    "website": "http://thebackspace.com",
+    "logo_url": "https://images.unsplash.com/photo-1485182708500-e8f1f318ba72?q=80&w=3310&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "happy_hours": {
+      "Monday": {
+        "all_day": true,
+        "drink_specials": ["$6 negronis"],
+        "food_specials": ["$5 margherita pizza"]
+      },
+      "Tuesday": {
+        "all_day": false,
+        "start_time": "15:00",
+        "end_time": "18:00",
+        "drink_specials": ["$5 spritzers"],
+        "food_specials": ["$6 bruschetta"]
+      },
+      "Thursday": {
+        "all_day": false,
+        "start_time": "16:00",
+        "end_time": "19:00",
+        "drink_specials": ["$7 Italian wines"],
+        "food_specials": ["$8 meatballs"]
+      }
+    }
+  },
+  {
+    "id": 8,
+    "location_name": "Eureka!",
+    "neighborhood": "South Austin",
+    "location": {
+      "latitude": 30.2678,
+      "longitude": -97.7404
+    },
+    "website": "http://eurekarestaurantgroup.com",
+    "logo_url": "https://plus.unsplash.com/premium_photo-1686090448301-4c453ee74718?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "happy_hours": {
+      "Wednesday": {
+        "all_day": true,
+        "drink_specials": ["$5 whiskey"],
+        "food_specials": ["$7 burgers"]
+      },
+      "Thursday": {
+        "all_day": false,
+        "start_time": "16:00",
+        "end_time": "18:00",
+        "drink_specials": ["$4 beers"],
+        "food_specials": ["$6 wings"]
+      },
+      "Saturday": {
+        "all_day": true,
+        "drink_specials": ["$5 bourbon"],
+        "food_specials": ["$8 sliders"]
+      }
+    }
+  },
+  {
+    "id": 9,
+    "location_name": "Irene's",
+    "neighborhood": "East Austin",
+    "location": {
+      "latitude": 30.2673,
+      "longitude": -97.7468
+    },
+    "website": "http://irenesaustin.com",
+    "logo_url": "https://plus.unsplash.com/premium_photo-1670984939096-f3cfd48c7408?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "happy_hours": {
+      "Tuesday": {
+        "all_day": true,
+        "drink_specials": ["$5 margaritas"],
+        "food_specials": ["$6 nachos"]
+      },
+      "Thursday": {
+        "all_day": false,
+        "start_time": "15:00",
+        "end_time": "18:00",
+        "drink_specials": ["$4 beers"],
+        "food_specials": ["$5 wings"]
+      },
+      "Saturday": {
+        "all_day": true,
+        "drink_specials": ["$6 craft cocktails"],
+        "food_specials": ["$8 sliders"]
+      }
+    }
+  },
+  {
+    "id": 10,
+    "location_name": "Odd Duck",
+    "neighborhood": "North Austin",
+    "location": {
+      "latitude": 30.2493,
+      "longitude": -97.7634
+    },
+    "website": "http://oddduckaustin.com",
+    "logo_url": "https://images.unsplash.com/photo-1505275350441-83dcda8eeef5?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "happy_hours": {
+      "Wednesday": {
+        "all_day": true,
+        "drink_specials": ["$7 cocktails"],
+        "food_specials": ["$9 charcuterie"]
+      },
+      "Thursday": {
+        "all_day": false,
+        "start_time": "16:00",
+        "end_time": "18:00",
+        "drink_specials": ["$6 beers"],
+        "food_specials": ["$8 sandwiches"]
+      },
+      "Saturday": {
+        "all_day": true,
+        "drink_specials": ["$5 wine"],
+        "food_specials": ["$10 burgers"]
+      }
+    }
+  }
+]
