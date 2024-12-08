@@ -9,6 +9,15 @@
     },
     "website": "http://thepeachedtortilla.com",
     "logo_url": "https://plus.unsplash.com/premium_photo-1661953124283-76d0a8436b87?q=80&w=3288&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "operating_hours": {
+      "Monday": { "open": "11:00", "close": "22:00" },
+      "Tuesday": { "open": "11:00", "close": "22:00" },
+      "Wednesday": { "open": "11:00", "close": "23:00" },
+      "Thursday": { "open": "11:00", "close": "23:00" },
+      "Friday": { "open": "11:00", "close": "00:00" },
+      "Saturday": { "open": "10:00", "close": "00:00" },
+      "Sunday": { "open": "10:00", "close": "21:00" }
+    },
     "happy_hours": {
       "Monday": {
         "all_day": false,
@@ -48,6 +57,15 @@
     },
     "website": "http://lacondesa.com",
     "logo_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "operating_hours": {
+      "Monday": { "open": "16:00", "close": "23:00" },
+      "Tuesday": { "open": "16:00", "close": "23:00" },
+      "Wednesday": { "open": "16:00", "close": "23:00" },
+      "Thursday": { "open": "16:00", "close": "00:00" },
+      "Friday": { "open": "16:00", "close": "02:00" },
+      "Saturday": { "open": "14:00", "close": "02:00" },
+      "Sunday": { "open": "14:00", "close": "22:00" }
+    },
     "happy_hours": {
       "Tuesday": {
         "all_day": true,
@@ -56,7 +74,7 @@
       },
       "Thursday": {
         "all_day": false,
-        "start_time": "15:00",
+        "start_time": "16:00",
         "end_time": "18:00",
         "drink_specials": ["$5 house wines"],
         "food_specials": ["$6 ceviche"]
@@ -80,17 +98,26 @@
     },
     "website": "http://italicaustin.com",
     "logo_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "operating_hours": {
+      "Monday": { "open": "17:00", "close": "22:00" },
+      "Tuesday": { "open": "17:00", "close": "22:00" },
+      "Wednesday": { "open": "17:00", "close": "22:00" },
+      "Thursday": { "open": "17:00", "close": "23:00" },
+      "Friday": { "open": "17:00", "close": "00:00" },
+      "Saturday": { "open": "16:00", "close": "00:00" },
+      "Sunday": { "open": "closed", "close": "closed" }
+    },
     "happy_hours": {
       "Monday": {
         "all_day": false,
-        "start_time": "15:00",
-        "end_time": "18:00",
+        "start_time": "17:00",
+        "end_time": "19:00",
         "drink_specials": ["$5 spritzers"],
         "food_specials": ["$7 margherita pizza"]
       },
       "Thursday": {
         "all_day": false,
-        "start_time": "16:00",
+        "start_time": "17:00",
         "end_time": "19:00",
         "drink_specials": ["$6 Italian wines"],
         "food_specials": ["$8 meatballs"]
@@ -112,6 +139,15 @@
     },
     "website": "http://moonshinegrill.com",
     "logo_url": "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?q=80&w=3024&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "operating_hours": {
+      "Monday": { "open": "closed", "close": "closed" },
+      "Tuesday": { "open": "15:00", "close": "23:00" },
+      "Wednesday": { "open": "15:00", "close": "23:00" },
+      "Thursday": { "open": "15:00", "close": "23:00" },
+      "Friday": { "open": "15:00", "close": "01:00" },
+      "Saturday": { "open": "11:00", "close": "01:00" },
+      "Sunday": { "open": "11:00", "close": "22:00" }
+    },
     "happy_hours": {
       "Wednesday": {
         "all_day": true,
@@ -144,6 +180,15 @@
     },
     "website": "http://coopersbbq.com",
     "logo_url": "https://images.unsplash.com/photo-1497644083578-611b798c60f3?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "operating_hours": {
+      "Monday": { "open": "11:00", "close": "20:00" },
+      "Tuesday": { "open": "11:00", "close": "20:00" },
+      "Wednesday": { "open": "11:00", "close": "20:00" },
+      "Thursday": { "open": "11:00", "close": "21:00" },
+      "Friday": { "open": "11:00", "close": "22:00" },
+      "Saturday": { "open": "11:00", "close": "22:00" },
+      "Sunday": { "open": "11:00", "close": "19:00" }
+    },
     "happy_hours": {
       "Tuesday": {
         "all_day": true,
@@ -176,6 +221,15 @@
     },
     "website": "http://pecheaustin.com",
     "logo_url": "https://images.unsplash.com/photo-1474898856510-884a2c0be546?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "operating_hours": {
+      "Monday": { "open": "16:00", "close": "00:00" },
+      "Tuesday": { "open": "16:00", "close": "00:00" },
+      "Wednesday": { "open": "16:00", "close": "00:00" },
+      "Thursday": { "open": "16:00", "close": "02:00" },
+      "Friday": { "open": "16:00", "close": "02:00" },
+      "Saturday": { "open": "16:00", "close": "02:00" },
+      "Sunday": { "open": "closed", "close": "closed" }
+    },
     "happy_hours": {
       "Monday": {
         "all_day": true,
@@ -208,6 +262,15 @@
     },
     "website": "http://thebackspace.com",
     "logo_url": "https://images.unsplash.com/photo-1485182708500-e8f1f318ba72?q=80&w=3310&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "operating_hours": {
+      "Monday": { "open": "15:00", "close": "22:00" },
+      "Tuesday": { "open": "15:00", "close": "22:00" },
+      "Wednesday": { "open": "closed", "close": "closed" },
+      "Thursday": { "open": "15:00", "close": "22:00" },
+      "Friday": { "open": "15:00", "close": "23:00" },
+      "Saturday": { "open": "15:00", "close": "23:00" },
+      "Sunday": { "open": "15:00", "close": "21:00" }
+    },
     "happy_hours": {
       "Monday": {
         "all_day": true,
@@ -240,6 +303,15 @@
     },
     "website": "http://eurekarestaurantgroup.com",
     "logo_url": "https://plus.unsplash.com/premium_photo-1686090448301-4c453ee74718?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "operating_hours": {
+      "Monday": { "open": "11:00", "close": "23:00" },
+      "Tuesday": { "open": "11:00", "close": "23:00" },
+      "Wednesday": { "open": "11:00", "close": "23:00" },
+      "Thursday": { "open": "11:00", "close": "23:00" },
+      "Friday": { "open": "11:00", "close": "01:00" },
+      "Saturday": { "open": "11:00", "close": "01:00" },
+      "Sunday": { "open": "10:00", "close": "22:00" }
+    },
     "happy_hours": {
       "Wednesday": {
         "all_day": true,
@@ -270,6 +342,15 @@
     },
     "website": "http://irenesaustin.com",
     "logo_url": "https://plus.unsplash.com/premium_photo-1670984939096-f3cfd48c7408?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "operating_hours": {
+      "Monday": { "open": "closed", "close": "closed" },
+      "Tuesday": { "open": "11:00", "close": "22:00" },
+      "Wednesday": { "open": "11:00", "close": "22:00" },
+      "Thursday": { "open": "11:00", "close": "22:00" },
+      "Friday": { "open": "11:00", "close": "00:00" },
+      "Saturday": { "open": "10:00", "close": "00:00" },
+      "Sunday": { "open": "10:00", "close": "21:00" }
+    },
     "happy_hours": {
       "Tuesday": {
         "all_day": true,
@@ -300,6 +381,15 @@
     },
     "website": "http://oddduckaustin.com",
     "logo_url": "https://images.unsplash.com/photo-1505275350441-83dcda8eeef5?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "operating_hours": {
+      "Monday": { "open": "closed", "close": "closed" },
+      "Tuesday": { "open": "17:00", "close": "22:00" },
+      "Wednesday": { "open": "17:00", "close": "22:00" },
+      "Thursday": { "open": "17:00", "close": "23:00" },
+      "Friday": { "open": "17:00", "close": "23:00" },
+      "Saturday": { "open": "16:00", "close": "23:00" },
+      "Sunday": { "open": "10:30", "close": "14:30" }
+    },
     "happy_hours": {
       "Wednesday": {
         "all_day": true,
@@ -308,7 +398,7 @@
       },
       "Thursday": {
         "all_day": false,
-        "start_time": "16:00",
+        "start_time": "17:00",
         "end_time": "18:00",
         "drink_specials": ["$6 beers"],
         "food_specials": ["$8 sandwiches"]
